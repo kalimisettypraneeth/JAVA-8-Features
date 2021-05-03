@@ -1,0 +1,6 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.project.sourcePaths": [
+        "src/com/java8/features/examples", "src/com/java8/features/interfaces"
+    ]
+}
